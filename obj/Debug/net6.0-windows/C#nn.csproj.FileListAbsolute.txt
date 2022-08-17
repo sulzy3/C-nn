@@ -1,0 +1,15 @@
+C:\Users\chilk\source\repos\C#nn\bin\Debug\net6.0-windows\C#nn.exe
+C:\Users\chilk\source\repos\C#nn\bin\Debug\net6.0-windows\C#nn.deps.json
+C:\Users\chilk\source\repos\C#nn\bin\Debug\net6.0-windows\C#nn.runtimeconfig.json
+C:\Users\chilk\source\repos\C#nn\bin\Debug\net6.0-windows\C#nn.dll
+C:\Users\chilk\source\repos\C#nn\bin\Debug\net6.0-windows\C#nn.pdb
+C:\Users\chilk\source\repos\C#nn\obj\Debug\net6.0-windows\C#nn.csproj.AssemblyReference.cache
+C:\Users\chilk\source\repos\C#nn\obj\Debug\net6.0-windows\C#nn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chilk\source\repos\C#nn\obj\Debug\net6.0-windows\C#nn.AssemblyInfoInputs.cache
+C:\Users\chilk\source\repos\C#nn\obj\Debug\net6.0-windows\C#nn.AssemblyInfo.cs
+C:\Users\chilk\source\repos\C#nn\obj\Debug\net6.0-windows\C#nn.csproj.CoreCompileInputs.cache
+C:\Users\chilk\source\repos\C#nn\obj\Debug\net6.0-windows\C#nn.dll
+C:\Users\chilk\source\repos\C#nn\obj\Debug\net6.0-windows\refint\C#nn.dll
+C:\Users\chilk\source\repos\C#nn\obj\Debug\net6.0-windows\C#nn.pdb
+C:\Users\chilk\source\repos\C#nn\obj\Debug\net6.0-windows\C#nn.genruntimeconfig.cache
+C:\Users\chilk\source\repos\C#nn\obj\Debug\net6.0-windows\ref\C#nn.dll
