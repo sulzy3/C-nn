@@ -11,6 +11,11 @@ static class Program
         var x_dev = data_dev.Skip(1).ToList();
 
         var data_train = data.Skip(1000).ToList().Transpose<int>();
+        var neuralNetwork = new NeuralNetwork(data_dev[0]);
+        neuralNetwork.AddLayer(10);
+        neuralNetwork.AddLayer(10);
+        Console.WriteLine(neuralNetwork.run());
+        Console.WriteLine("the end");
 
     }
     

@@ -2,8 +2,8 @@ namespace C_nn
 {
     public class Connection
     {
-        public double? weight { get; set; }
-        public Node? node { get; set; }
+        public double weight { get; set; }
+        public Node node { get; set; }
     
     public Connection(Node node)
     {
